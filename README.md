@@ -23,8 +23,6 @@ A clean and responsive **personal portfolio website** built using HTML, CSS, and
 |--------------|-------------|
 | ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
 
-> Place actual screenshots in a `screenshots/` folder in your repository.
-
 ## 🚀 Getting Started
 
 To run this portfolio locally:
