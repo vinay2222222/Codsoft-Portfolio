@@ -17,12 +17,6 @@ A clean and responsive **personal portfolio website** built using HTML, CSS, and
 - **CSS3** – Styling and layout
 - **JavaScript** – Interactivity and animations
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
 ## 🚀 Getting Started
 
 To run this portfolio locally:
